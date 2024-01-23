@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I mostly use spring boot, java and docker technologies in the projects I am currently working on.<br>🏢 I’m currently working at HEVI AI company<br>🌱 I’m currently using springboot, java, docker
+👋 Hi, I mostly use spring boot, java and docker technologies in the projects I am currently working on. I also work on devop methodology.<br>🏢 I’m currently working at HEVI AI company<br>🌱 I’m currently using springboot, java, docker
 
 
 ## 🌐 Socials:
